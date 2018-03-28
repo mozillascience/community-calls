@@ -11,7 +11,7 @@
 [Agenda and notes](https://public.etherpad-mozilla.org/p/sciencelab-calls-feb8-2018)  
 [Recording of the call](https://air.mozilla.org/mozilla-science-lab-february-2018-bi-monthly-community-call-20170208/)
 
-## MARCH
+## MARCH 1st
 #### Host: Danielle Robinson ([@daniellecrobins](https://twitter.com/daniellecrobins)), Code for Science & Society ([@CodeforSociety](https://twitter.com/CodeforSociety))  
 **Speakers:**  
 * Karissa McKelvey ([@okdistribute](https://twitter.com/okdistribute)) & Stephen Whitmore ([@noffle](https://twitter.com/noffle)), *Digital Democracy ([@DigiDem](https://twitter.com/DigiDem))*
@@ -28,7 +28,7 @@
 
 ## APRIL (No Call)
 
-## MAY
+## MAY 10th
 #### Host: 
 **Theme:**  
 **Speakers:**  
@@ -36,7 +36,7 @@
 [Agenda and notes]()  
 [Recording of the call]()  
 
-## JUNE
+## JUNE 14th
 #### Host: 
 **Theme:**  
 **Speakers:**  
@@ -44,7 +44,7 @@
 [Agenda and notes]()  
 [Recording of the call]()  
 
-## JULY
+## JULY 12th
 #### Host: 
 **Theme:**  
 **Speakers:**  
@@ -52,7 +52,7 @@
 [Agenda and notes]()  
 [Recording of the call]()  
 
-## AUGUST
+## AUGUST 9th
 #### Host: 
 **Theme:**  
 **Guests:**  
@@ -60,7 +60,7 @@
 [Agenda and notes]()  
 [Recording of the call]()  
 
-## SEPTEMBER
+## SEPTEMBER 13th
 #### Host: 
 **Theme:**  
 **Speakers:**  
@@ -68,7 +68,7 @@
 [Agenda and notes]()  
 [Recording of the call]()  
 
-## OCTOBER
+## OCTOBER 11th
 #### Host: 
 **Theme:**  
 **Speakers:**  
@@ -76,7 +76,7 @@
 [Agenda and notes]()  
 [Recording of the call]()  
 
-## NOVEMBER
+## NOVEMBER 8th
 #### Host: 
 **Theme:**  
 **Speakers:**  
