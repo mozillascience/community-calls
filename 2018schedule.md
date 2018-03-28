@@ -17,6 +17,7 @@
 * Karissa McKelvey ([@okdistribute](https://twitter.com/okdistribute)) & Stephen Whitmore ([@noffle](https://twitter.com/noffle)), *Digital Democracy ([@DigiDem](https://twitter.com/DigiDem))*
 * Peter van Hardenberg ([@pvh](https://twitter.com/pvh)), *[Pixel Art](https://medium.com/@pvh/pixelpusher-real-time-peer-to-peer-collaboration-with-react-7c7bc8ecbf74)*
 * Tara Vancil ([@taravancil](https://twitter.com/taravancil)), *Beaker Browser ([@BeakerBrowser](https://twitter.com/BeakerBrowser))*  
+
 **Verbal Project Updates:**  
 * Joe Hand ([@joeahand](https://twitter.com/joeahand)) & Danielle Robinson ([@daniellecrobins](https://twitter.com/daniellecrobins)), *Dat ([@dat_project](https://twitter.com/dat_project))*
 * Danielle Robinson ([@daniellecrobins](https://twitter.com/daniellecrobins)), *ScienceFair ([@ScienceFairApp](https://twitter.com/ScienceFairApp))*  
