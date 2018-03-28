@@ -1,3 +1,7 @@
+Here's our schedule of past & upcoming Open Science Community Calls.
+Got an idea for a theme and a 3-5 speakers you'd like to talk to on a Community Call? Volunteer to host a call and sign up for an "empty" month here: https://goo.gl/forms/CdXebCVIx54S0UE23
+
+
 ## FEBRUARY 8th
 #### Host: Stephanie Wright ([@shefw](https://twitter.com/shefw)), Mozilla Science ([@MozillaScience](https://twitter.com/@mozillascience))
 **Theme:** Open Publishing 
